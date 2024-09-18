@@ -19,8 +19,7 @@ Welcome to the **Currency Converter** application, built using **React.js**. Thi
 - **🔁 Swap Button:**  
   Allows users to interchange the selected currencies with a single click.
 
-- **🖥️ Responsive UI:**  
-  Modern and responsive user interface designed for an optimal experience on various devices.
+
 
 - **⚙️ Vite:**  
   Uses Vite as the build tool for a fast development workflow and optimized builds.
